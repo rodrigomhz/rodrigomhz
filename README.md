@@ -1,14 +1,73 @@
-# 💫 About Me:
-Soy estudiante de Ingeniería de Software con especialización en Ciberseguridad, con un fuerte interés en ensamblador, cheats, anticheats y hacking en videojuegos. Actualmente, estoy desarrollando proyectos personales en C++ relacionados con hacking y seguridad en videojuegos. Busco oportunidades para aplicar mis habilidades en Ciberseguridad y seguir explorando el mundo de la ingeniería inversa y las técnicas de protección.
+```bash
+$ whoami
+> Rodrigo Martínez Hernández
+> Offensive Security · Red Team · Reverse Engineering · Malware & Forensics
+```
 
+## 🧠 whoami · About Me / Sobre mí
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodri_mhz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-mart%C3%ADnez-hern%C3%A1ndez-89183a357/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigomhz@protonmail.com) 
+> 🇬🇧 **EN** — Software Engineering student (Cybersecurity major) at **U-TAD**, focused on **offensive security**: Red Team, pentesting and digital forensics. **Reverse engineering is my signature** — from full **Active Directory** intrusions to binary analysis and game hacking *(cheats / anti-cheats)*, where it all started. I also build **offensive hardware** (ESP32, Bluetooth/RF, a homemade Flipper Zero). Looking for my first cybersecurity internship — next stop: **OSCP**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Calvo629&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Calvo629&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvo629&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+> 🇪🇸 **ES** — Estudiante de Ingeniería de Software (especialización en Ciberseguridad) en **U-TAD**, centrado en **seguridad ofensiva**: Red Team, pentesting y análisis forense. **La ingeniería inversa es mi sello** — desde intrusiones completas en **Active Directory** hasta el análisis de binarios y el hacking en videojuegos *(cheats / anticheats)*, que es donde empezó todo. También trasteo con **hardware ofensivo** (ESP32, Bluetooth/RF, un Flipper Zero casero). Busco mis primeras prácticas en ciberseguridad — próximo objetivo: **OSCP**.
 
+---
+
+## ⚡ Arsenal
+
+**🔴 Red Team & Active Directory**
+`Active Directory` `Kerberoasting` `BloodHound` `Mimikatz` `Impacket` `Evil-WinRM` `Pivoting / Tunneling` `MITRE ATT&CK`
+
+**🕸️ Web Pentesting**
+`SQL Injection` `XSS` `IDOR` `Burp Suite` `sqlmap` `Gobuster`
+
+**🧬 Reverse Engineering & Malware**
+`Ghidra` `IDA Pro` `x86 Assembly` `dnSpy` `pestudio` `Buffer Overflow` `ret2libc` `NX bypass`
+
+**🔍 DFIR / Forensics**
+`Volatility` `Wireshark` `Autopsy` `FTK Imager` `Memory Forensics` `Log & Timeline Analysis`
+
+**📡 Hardware & RF**
+`ESP32` `Flipper Zero` `Bluetooth / RF`
+
+---
+
+## 🧰 Tech Stack
+
+**Languages** · `C` `C++` `Python` `x86 Assembly` `Bash` `PowerShell` `JavaScript`
+
+**Environments & Tools** · `Linux` `Kali` `Docker` `Git` `Node.js`
+
+---
+
+## 🚧 Projects · Proyectos
+
+> 🇬🇧 Most of my offensive tooling and lab write-ups are still **private** — public releases are on the way.
+> 🇪🇸 La mayoría de mis herramientas y write-ups están aún **en privado**; pronto los iré publicando.
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Game RE Toolkit** | Ghidra-driven reverse engineering of running games (memory, offsets, anti-cheat). | `private` |
+| **AD Red Team Labs** | End-to-end intrusion write-ups: Kali → DMZ → Domain Controller. | `coming soon` |
+| **BOF Exploit Lab** | Stack buffer-overflow exploits with ret2libc, custom shellcode & NX bypass. | `coming soon` |
+| **ESP32 Offensive Gadgets** | Bluetooth/RF tooling & a homemade Flipper Zero. | `WIP` |
+
+<!-- 👉 Cuando subas un repo, cambia el nombre por [Nombre](enlace) y actualiza el Status. -->
+
+---
+
+## 🎯 Now · Ahora mismo
+
+- 🛡️ Seeking my first cybersecurity internship · Buscando mis primeras prácticas
+- 📜 Preparing **OSCP** · Preparando la **OSCP**
+- 🧩 Deep-diving operating systems & reverse engineering · Profundizando en sistemas operativos e ingeniería inversa
+- 🏴 Active on HackTheBox & TryHackMe
+
+---
+
+## 📫 Contact
+
+**[LinkedIn](https://www.linkedin.com/in/rodrigo-mart%C3%ADnez-hern%C3%A1ndez-89183a357/)** · **[Email](mailto:rodrigomhz@protonmail.com)** · **[Instagram](https://instagram.com/rodri_mhz)**
+
+---
+
+> *"Si no entiendes cómo se rompe algo, no entiendes cómo protegerlo."*
